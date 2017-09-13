@@ -12,7 +12,6 @@
 * Open Street Map (OSM) Nepal
 * Nepali Wikipedia
 * Google Business Group (GBG) Kathmandu
-* Chitwanix Developers Community Nepal
 
 # College Community/Club associated with FOSS Nepal.
 * Acme Open Source Community (AOSC)
