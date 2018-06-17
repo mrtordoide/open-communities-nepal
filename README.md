@@ -13,7 +13,15 @@
 * Nepali Wikipedia
 * Google Business Group (GBG) Kathmandu
 
-# College Community/Club associated with FOSS Nepal.
+# List of Open Source Communities in Chitwan, Nepal.
+
+* FOSS Chitwan Community
+* Indreni Open Source Club
+* Lumbini Open Source Klub
+* Mozilla Campus Club @ Indreni College
+* Chitwanix Developers Community Nepal
+
+# College Community/Club associated with FOSS Nepal. [Kathmandu, Nepal]
 * Acme Open Source Community (AOSC)
 * Open Source AsCol Circle (OSAC)
 * Kathmandu University Open Source Community (KUOSC)
@@ -31,11 +39,3 @@
 * Kathmandu Engineering College (KEC) IT Club
 * New Summit College Open Source Community (NSCOSC)
 
-# opencommunitieschitwan
-List of Open Source Communities in Chitwan.
-
-* FOSS Chitwan Community
-* Indreni Open Source Club
-* Lumbini Open Source Klub
-* Mozilla Campus Club @ Indreni College
-* Chitwanix Developers Community Nepal
