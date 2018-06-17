@@ -30,3 +30,12 @@
 * Madan Bhandari Memorial College
 * Kathmandu Engineering College (KEC) IT Club
 * New Summit College Open Source Community (NSCOSC)
+
+# opencommunitieschitwan
+List of Open Source Communities in Chitwan.
+
+* FOSS Chitwan Community
+* Indreni Open Source Club
+* Lumbini Open Source Klub
+* Mozilla Campus Club @ Indreni College
+* Chitwanix Developers Community Nepal
