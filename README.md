@@ -1,4 +1,4 @@
-# List of Open Source Communities in Kathmandu, Nepal.
+# Open Source Communities in Kathmandu, Nepal.
 * Free and Open Source Software (FOSS) Nepal
 * Mozilla Nepal
 * Open Knowledge Nepal
@@ -13,7 +13,7 @@
 * Nepali Wikipedia
 * Google Business Group (GBG) Kathmandu
 
-# List of Open Source Communities in Chitwan, Nepal.
+# Open Source Communities in Chitwan, Nepal.
 
 * FOSS Chitwan Community
 * Indreni Open Source Club
