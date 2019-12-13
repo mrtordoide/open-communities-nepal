@@ -6,7 +6,7 @@
 * Python Developers Nepal
 * Ruby Developers Nepal
 * KTMJS Developers Nepal
-* Wordpress Nepal
+* WordPress Nepal
 * Robotic Association of Nepal
 * Google Developers Group (GDG) Kathmandu
 * Open Street Map (OSM) Nepal
@@ -20,6 +20,7 @@
 * Lumbini Open Source Klub
 * Mozilla Campus Club @ Indreni College
 * Chitwanix Developers Community Nepal
+* WordPress Bharatpur Community
 
 # College Community/Club associated with FOSS Nepal. [Kathmandu, Nepal]
 * Acme Open Source Community (AOSC)
@@ -38,4 +39,4 @@
 * Madan Bhandari Memorial College
 * Kathmandu Engineering College (KEC) IT Club
 * New Summit College Open Source Community (NSCOSC)
-
+* Indreni Open Source Club (IOSC)
