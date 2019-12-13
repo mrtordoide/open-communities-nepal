@@ -39,4 +39,6 @@
 * Madan Bhandari Memorial College
 * Kathmandu Engineering College (KEC) IT Club
 * New Summit College Open Source Community (NSCOSC)
+
+# College Community/Club associated with FOSS Nepal. [Chitwan, Nepal]
 * Indreni Open Source Club (IOSC)
